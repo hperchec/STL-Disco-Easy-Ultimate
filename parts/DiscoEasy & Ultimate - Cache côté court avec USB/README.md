@@ -25,3 +25,11 @@
 ## Images
 
 ![img-1](./img-1.png)
+
+![img-2](./img-2.png)
+
+![img-3](./img-3.jpg)
+
+## Platforms
+
+- [Thingiverse](https://www.thingiverse.com/thing:4180118)

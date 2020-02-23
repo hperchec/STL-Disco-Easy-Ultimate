@@ -26,10 +26,6 @@ Modified parts:
 
 /////////////////////////////////////
 
-## Platforms
-
-- [Thingiverse]()
-
 ## Licence
 
 ©© Creative Commons - Attribution - NonCommercial - ShareAlike
